@@ -1,5 +1,6 @@
 ---
 title: "SRT411 Assignment 0"
+author: "yasserkassim"
 output: github_document
 #output: pdf_document
 ---
@@ -9,9 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 setwd("C:/Users/yasse/Desktop/Seneca/Semester 4/SRT411/Assignments")
 ```
 
-## GitHub Documents
+## Assignment Description
 
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+This assignment required us to read examples and complete all of the todos in https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf which is shown below. 
 
 
 ```{r}
