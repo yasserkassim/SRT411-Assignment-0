@@ -34,7 +34,7 @@ b=c(4,5,8,11)
 sum(x=b)
 ```
 
-```{r}
+```{r eval=true}
 ##3.5
 x=rnorm(100)
 plot(x)
