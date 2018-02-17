@@ -1,7 +1,7 @@
 ---
 title: "SRT411 Assignment 0"
-#output: github_document
-output: pdf_document
+output: github_document
+#output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
